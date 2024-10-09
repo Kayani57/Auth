@@ -4,6 +4,12 @@ import { Container, Typography, Box, Paper } from '@mui/material';
 interface FormContainerProps {
   title: string;
   children: React.ReactNode;
+
+
+
+
+
+  
 }
 
 const FormContainer: React.FC<FormContainerProps> = ({ title, children }) => {

@@ -7,6 +7,11 @@ import { ForgotPasswordSchema } from '../utils/validationSchema';
 
 interface IFormInput {
   email: string;
+
+
+
+
+  
 }
 
 
