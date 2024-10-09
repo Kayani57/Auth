@@ -8,6 +8,9 @@ import { LoginSchema } from '../utils/validationSchema';
 interface IFormInput {
   email: string;
   password: string;
+
+
+  
 }
 
 
